@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Boton0</string>
+    <string name="pulsameAdmiracion">Push</string>
+    <string name="pulsado">Pushed</string>
+    <string name="veces">times</string>
+
+
+    <plurals name="numPulsaciones">
+        <item quantity="one">Pressed%d time </item>
+        <item quantity="other">Pressed%d times </item>
+    </plurals>
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Boton0</string>
+    <string name="pulsameAdmiracion">Púlsame</string>
+    <string name="pulsado">Pulsado</string>
+    <string name="veces">veces</string>
+
+    <plurals name="numPulsaciones">
+        <item quantity="one">Pressed %d time </item>
+        <item quantity="other">Pressed %d times </item>
+    </plurals>
+
+    <string-array name="array_planetas">
+        <item>Mercurio</item>
+        <item>Venus</item>
+        <item>Tierra</item>
+        <item>Marte</item>
+    </string-array>
+</resources>
+
